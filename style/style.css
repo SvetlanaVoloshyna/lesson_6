@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 40px;
+}
+.nav-menu{
+    border: 1px solid aqua;
+}
+#first-item{
+font-size: 25px;
+}
+#link{
+    color: red;
+    text-decoration: none;
+}
+.nav-menu a{
+    font-weight: normal;
+    text-decoration: none;
+}
+.nav-menu .menu-item{
+    font-weight: 800;
+}
